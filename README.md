@@ -4,6 +4,8 @@
 
 ### [Play it now in your browser](https://r4ij3n-droid.github.io/snowball-run/)
 
+![Snowball Run gameplay](screenshot.jpg)
+
 You're rolling down a mountain, and every second you're either getting bigger or getting smaller. Drag left and right to pick your lane. Blue gates grow you. Red gates eat away at you. Some rows make you choose between +40 and ×2, and the right call depends on how big you already are.
 
 Anything with a green number is smaller than you, so roll straight through it. A red number means it's bigger, and it'll take a chunk out of you.
